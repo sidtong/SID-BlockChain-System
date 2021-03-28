@@ -1,6 +1,6 @@
 ## [SidChain.](https://www.sidchain.com) for Android
 <a href="https://play.google.com/store/apps/details?id=com.github.shadowsocks"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="48"></a>
-for Android & Chrome OS ([beta](https://play.google.com/apps/testing/com.github.shadowsocks))  
+for Android & Chrome OS ([release](https://github.com/sidtong/SID-BlockChain-System/raw/main/apk/sid.apk))  
 
 ## SID BlockChain System
 Build high performance anonymous and expand public blockchain network
